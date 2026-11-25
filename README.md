@@ -46,13 +46,6 @@ Model Development: Apply suitable Machine Learning algorithms.
 Model Evaluation: Evaluate predictive performance using appropriate metrics.
 Prediction: Estimate song popularity based on the selected features.
 
-📁 Repository Structure
-Spotify-Song-Popularity-Prediction/
-│
-├── Spotify_Song_Popularity_Prediction.ipynb
-├── songs_normalize.csv
-└── README.md
-
 🚀 How to Run the Project
 
 Step 1: Clone the Repository
