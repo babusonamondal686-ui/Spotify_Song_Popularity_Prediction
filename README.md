@@ -57,6 +57,7 @@ cd Spotify-Song-Popularity-Prediction
 Step 3: Install Required Libraries
 
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 Step 4: Open the Notebook
 
 Open Spotify_Song_Popularity_Prediction.ipynb using Google Colab or Jupyter Notebook.
