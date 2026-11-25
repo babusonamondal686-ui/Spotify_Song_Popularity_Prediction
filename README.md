@@ -79,8 +79,9 @@ Develop an interactive web-based prediction interface.
 Integrate real-time Spotify data where permitted.
 
 👨‍💻 Author
-Babusona Mondal 
-GitHub: @babusonamondal686-ui
+Babusona Mondal
+
+GitHub:@babusonamondal686-ui
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
